@@ -1,7 +1,6 @@
-j:{
-[{“name”:“张佳龙”,“like”:"gg ",“img”:“http://192.168.100.7/2.jpg”},
-{“name”:“张佳龙”,“like”:“kk”,“img”:“http://192.168.100.7/2.jpg”}],
-  [{“name”:“张佳龙”,“like”:"gg ",“img”:“http://192.168.100.7/2.jpg”},
+{
+'0':[{“name”:“张佳龙”,“like”:"gg ",“img”:“http://192.168.100.7/2.jpg”},
+{“name”:“张佳龙”,“like”:“kk”,“img”:“http://192.168.100.7/2.jpg”}],'1':[{“name”:“张佳龙”,“like”:"gg ",“img”:“http://192.168.100.7/2.jpg”},
 {“name”:“张佳龙”,“like”:“ss”,“img”:“http://192.168.100.7/2.jpg”},
 {“name”:“张佳龙”,“like”:“kk”,“img”:“http://192.168.100.7/2.jpg”}]
 }
