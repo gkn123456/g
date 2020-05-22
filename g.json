@@ -1,18 +1,7 @@
-{1608E:
+{
 [{“name”:“张佳龙”,“like”:"gg ",“img”:“http://192.168.100.7/2.jpg”},
-{“name”:“张佳龙”,“like”:“ss”,“img”:“http://192.168.100.7/2.jpg”},
 {“name”:“张佳龙”,“like”:“kk”,“img”:“http://192.168.100.7/2.jpg”}],
-1607E:
-[{“name”:“张佳龙”,“like”:“gg”,“img”:“http://192.168.100.7/2.jpg”},
+  [{“name”:“张佳龙”,“like”:"gg ",“img”:“http://192.168.100.7/2.jpg”},
 {“name”:“张佳龙”,“like”:“ss”,“img”:“http://192.168.100.7/2.jpg”},
-{“name”:“张佳龙”,“like”:“kk”,“img”:“http://192.168.100.7/2.jpg”},
-{“name”:“张佳龙”,“like”:“kk”,“img”:“http://192.168.100.7/2.jpg”}],
-1609E:
-[{“name”:“张佳龙”,“like”:“gg”,“img”:“http://192.168.100.7/2.jpg”},
-{“name”:“张佳龙”,“like”:“ss”,“img”:“http://192.168.100.7/2.jpg”},
-{“name”:“张佳龙”,“like”:“kk”,“img”:“http://192.168.100.7/2.jpg”}],
-1619E:
-[{“name”:“张佳龙”,“like”:“gg”,“img”:“http://192.168.100.7/2.jpg”},
-{“name”:“张佳龙”,“like”:“ss”,“img”:“http://192.168.100.7/2.jpg”},
-{“name”:“张佳龙”,“like”:“kk”,“img”:“http://192.168.100.7/2.jpg”}],
+{“name”:“张佳龙”,“like”:“kk”,“img”:“http://192.168.100.7/2.jpg”}]
 }
